@@ -1,0 +1,11 @@
+/* Enter your custom styles here */
+/* Enter your custom styles here */
+
+.myBackgroundImage{
+	  background-image: url('https://ak.picdn.net/shutterstock/videos/712855/thumb/1.jpg');
+	  background-repeat:no-repeat;
+	  background-size:cover;
+}
+.amountSize{
+	font-size: 2vw;
+}
